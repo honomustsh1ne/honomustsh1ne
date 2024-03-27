@@ -1,0 +1,187 @@
+</html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CashOut - The Simplest Way to Move Your Money</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <img src="images/cashout_logo.png" alt="CashOut Logo">
+        <nav>
+            <ul>
+                <li><a href="#hero">How It Works</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#security">Security</a></li>
+                <li><a href="#support">Support</a></li>
+            </ul>
+        </nav>
+        <button class="cta">Get Started</button>
+    </header>
+
+    <main>
+        <section id="hero">
+            <img src="images/hero_banner.jpg" alt="CashOut Hero Banner" class="hero-image">
+            <div class="hero-content">
+                <h1>The Simplest Way to Move Your Money</h1>
+                <p>CashOut: Secure, Instant Money Transfers</p>
+                <button class="cta">Sign Up for Free</button>
+            </div>
+        </section>
+
+        <section id="how-it-works">
+            <h2>How CashOut Works</h2>
+            <div class="how-it-works-boxes">
+                <div class="box">
+                    <h3>Send</h3>
+                    <p>Send money to anyone, anywhere, instantly.</p>
+                    <img src="images/icon-send.svg" alt="Send Icon">
+                </div>
+                <div class="box">
+                    <h3>Receive</h3>
+                    <p>Receive money directly into your CashOut account.</p>
+                    <img src="images/icon-receive.svg" alt="Receive Icon">
+                </div>
+                <div class="box">
+                    <h3>Pay Bills</h3>
+                    <p>Pay your bills quickly and easily with CashOut.</p>
+                    <img src="images/icon-pay-bills.svg" alt="Pay Bills Icon">
+                </div>
+            </div>
+        </section>
+
+        <section id="features">
+            <h2>Our Features</h2>
+            <div class="feature-cards">
+                <div class="card">
+                    <h3>Secure Transactions</h3>
+                    <p>CashOut uses the latest security measures to protect your money.</p>
+                    <img src="images/icon-security.svg" alt="Security Icon">
+                </div>
+                <div class="card">
+                    <h3>Fast and Easy</h3>
+                    <p>Send and receive money in seconds with just a few taps.</p>
+                    <img src="images/icon-speed.svg" alt="Speed Icon">
+                </div>
+                <div class="card">
+                    <h3>Low Fees</h3>
+                    <p>Enjoy competitive fees for all your money transfer needs.</p>
+                    <img src="images/icon-fees.svg" alt="Fees Icon">
+                </div>
+            </div>
+        </section>
+
+        <section id="security">
+            <h2>Unwavering Security</h2>
+            <p>At CashOut, your security is our top priority. We use industry-leading security measures to protect your money and personal information. Here's how:</p>
+            <ul>
+                <li>Advanced encryption to safeguard your data.</li>
+                <li>Multi-factor authentication for added login security.</li>
+                <li>Fraud detection and prevention systems.</li>
+                <li>Regular security audits and updates.</li>
+            </ul>
+            <a href="#">Learn More About Security</a>
+        </section>
+
+        <section id="support">
+            <h2>Trusted Support</h2>
+            <p>Our dedicated customer support team is here to help you with any questions or issues you may have. Contact us via:</p>
+            <ul>
+                <li>Live chat (available during business hours)</li>
+                <li>Email support (2
+                <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CashOut - The Simplest Way to Move Your Money</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <img src="images/cashout_logo.png" alt="CashOut Logo">
+        <nav>
+            <ul>
+                <li><a href="#hero">How It Works</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#security">Security</a></li>
+                <li><a href="#support">Support</a></li>
+            </ul>
+        </nav>
+        <button class="cta">Get Started</button>
+    </header>
+
+    <main>
+        <section id="hero">
+            <img src="images/hero_banner.jpg" alt="CashOut Hero Banner" class="hero-image">
+            <div class="hero-content">
+                <h1>The Simplest Way to Move Your Money</h1>
+                <p>CashOut: Secure, Instant Money Transfers</p>
+                <button class="cta">Sign Up for Free</button>
+            </div>
+        </section>
+
+        <section id="how-it-works">
+            <h2>How CashOut Works</h2>
+            <div class="how-it-works-boxes">
+                <div class="box">
+                    <h3>Send</h3>
+                    <p>Send money to anyone, anywhere, instantly.</p>
+                    <img src="images/icon-send.svg" alt="Send Icon">
+                </div>
+                <div class="box">
+                    <h3>Receive</h3>
+                    <p>Receive money directly into your CashOut account.</p>
+                    <img src="images/icon-receive.svg" alt="Receive Icon">
+                </div>
+                <div class="box">
+                    <h3>Pay Bills</h3>
+                    <p>Pay your bills quickly and easily with CashOut.</p>
+                    <img src="images/icon-pay-bills.svg" alt="Pay Bills Icon">
+                </div>
+            </div>
+        </section>
+
+        <section id="features">
+            <h2>Our Features</h2>
+            <div class="feature-cards">
+                <div class="card">
+                    <h3>Secure Transactions</h3>
+                    <p>CashOut uses the latest security measures to protect your money.</p>
+                    <img src="images/icon-security.svg" alt="Security Icon">
+                </div>
+                <div class="card">
+                    <h3>Fast and Easy</h3>
+                    <p>Send and receive money in seconds with just a few taps.</p>
+                    <img src="images/icon-speed.svg" alt="Speed Icon">
+                </div>
+                <div class="card">
+                    <h3>Low Fees</h3>
+                    <p>Enjoy competitive fees for all your money transfer needs.</p>
+                    <img src="images/icon-fees.svg" alt="Fees Icon">
+                </div>
+            </div>
+        </section>
+
+        <section id="security">
+            <h2>Unwavering Security</h2>
+            <p>At CashOut, your security is our top priority. We use industry-leading security measures to protect your money and personal information. Here's how:</p>
+            <ul>
+                <li>Advanced encryption to safeguard your data.</li>
+                <li>Multi-factor authentication for added login security.</li>
+                <li>Fraud detection and prevention systems.</li>
+                <li>Regular security audits and updates.</li>
+            </ul>
+            <a href="#">Learn More About Security</a>
+        </section>
+
+        <section id="support">
+            <h2>Trusted Support</h2>
+            <p>Our dedicated customer support team is here to help you with any questions or issues you may have. Contact us via:</p>
+            <ul>
+                <li>Live chat (available during business hours)</li>
+                <li>Email support (2
+                
